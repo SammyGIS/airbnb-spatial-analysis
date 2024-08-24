@@ -1,0 +1,3 @@
+*.pytest_cahe
+*__pycache__
+/data_output
